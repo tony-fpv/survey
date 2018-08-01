@@ -1,0 +1,7 @@
+participation_count : 5
+participation_percentage : 83.33
+Answer1_mean_rating : 4.6
+Answer2_mean_rating : 5.0
+Answer3_mean_rating : 5.0
+Answer4_mean_rating : 3.6
+Answer5_mean_rating : 3.6
