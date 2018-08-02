@@ -1,0 +1,7 @@
+participation_count : 0
+participation_percentage : 0.0
+EmployeeId_mean_rating : nan
+SubmittedAt_mean_rating : nan
+Answer1_mean_rating : nan
+Answer2_mean_rating : nan
+Answer4_mean_rating : nan
