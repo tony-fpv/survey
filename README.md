@@ -2,17 +2,16 @@ This is a CLI application to parse and display survey data from CSV files, and d
 
 Prerequisites
 
-Install Python 
-Installl Pandas library
+Install Python 3
+Install Pandas library (pip3 install pandas)
 Install Numpy library
 Install argparse library
+A EC2 instance where launch the scripts or a AWS Lambda
 
-The exercise is probably it has been designed for Ruby and push data output in Tableau, but I preferred use 
+The exercise was probably been designed for Ruby and push data output in Tableau, but I preferred use 
 Python because is much performant (in my opinion) for any BI tool, included the possibility to be used in Machine Learning
 with iPython notebooks launched by Sagemaker.
 
-The next step it should be (my advice) is put everything in a AWS Datapipeline and populate any BI tools like Tableau
-R-Server or Kibana (ELK) .
 
 The comments are inside the file survey.py and the syntax to be launched is:
 
