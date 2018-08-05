@@ -19,5 +19,11 @@ python3 survey.py --inputfile survey-1.csv --outputfile output1.txt
 python3 survey.py --inputfile survey-2.csv --outputfile output2.txt
 python3 survey.py --inputfile survey-3.csv --outputfile output3.txt
 
-All the files could be used in a bash script and executed in interval wait of 10 seconds depending by the amount of data.
+There is a bash script that launch the  scripts in realtime is called bound.sh
+You can run it continuosly using a cron like:
 
+* * * * * /yourpath/bound.sh >/dev/null 2>&1
+
+
+
+ 
