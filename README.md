@@ -24,6 +24,14 @@ You can run it continuosly using a cron like:
 
 * * * * * /yourpath/bound.sh >/dev/null 2>&1
 
+The content of bound.sh and the crontab both could be part of a Jenkins job.
+
+Annex a documentation of my feedback system interpretation using realtime data, please read feedback-system.pdf and
+the python file cutomer-feedback.py.
+
+Thanks
+
+Tony
 
 
  
